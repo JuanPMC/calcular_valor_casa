@@ -35,7 +35,7 @@ Este es un proyecto personal que ayuda a evaluar un alquiler basándose en un es
 
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/valoracion-alquileres.git
+   git clone https://github.com/JuanPMC/calcular_valor_casa.git
 2. Abre el archivo index.html en un navegador.
 3. Ingresa los valores y haz clic en "Calcular".
 
