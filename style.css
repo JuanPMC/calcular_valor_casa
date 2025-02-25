@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+
+.good {
+    color: white;
+    background-color: green;
+}
+
+.mid {
+    color: black;
+    background-color: yellow;
+}
+
+.bad {
+    color: white;
+    background-color: red;
+}
+
+#percentil{
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    display: inline-block;
+}
