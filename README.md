@@ -43,6 +43,6 @@ Este es un proyecto personal que ayuda a evaluar un alquiler basándose en un es
 
 Si quieres modificar los valores de referencia (media de precio, tamaño, distancia), edita el archivo script.js y cambia las variables dentro de la función calcularPercentil().
 
-## 🌍 ¿Habrá una Versión Online?
+## 🌍 ¿Hay una Versión Online?
 
-Este proyecto es local, pero podría subirse a GitHub Pages en el futuro.
+Efectivamente, este repositorio se creo para acceder mas facilmente a esta informacion hosteandolo [aqui](https://juanpmc.github.io/calcular_valor_casa/).
